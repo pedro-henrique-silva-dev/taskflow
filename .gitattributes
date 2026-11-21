@@ -1,0 +1,6 @@
+# Normaliza as quebras de linha no repositório (evita diferenças entre Windows e Linux)
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.ico binary
